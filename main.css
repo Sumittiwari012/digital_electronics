@@ -1,0 +1,83 @@
+h1{
+	color:white;
+}
+#first{
+	background-color:blue;
+	width:200vh;
+	height:10vh;	
+	margin-bottom:10px;
+	
+}
+marquee{
+	font-size:20px;
+}
+#test{
+	height:50px;
+	width:20px;
+	background-color:purple;
+	margin-color:white;
+	
+}
+li{
+	list-style:none;
+	display:inline-block;
+}
+.items{
+	
+	border:2px solid black;
+}
+#firstel{
+	font-size:30px;
+	margin-right:30%;
+}
+.subdiv{
+	width:49%;
+	height:40vh;
+	margin:0.5px;	
+	margin-top:10px;
+	margin-right:10px;
+	border:2px solid black;	
+	float:left;
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+#block1,#block2,#block3,#block4,#block5,#block6{
+	background-color:yellow;
+}
+.gitem,.op{
+	width:76px;
+	height:92px;
+}
+#block1op{
+	width:200px;
+	height:92px;
+	margin-left:140px;
+	font-size:40px;
+}
+button{
+	background-color:grey;
+	font-size:30px;
+	width:76px;
+	height:36px;
+}
+label{
+	font-size:50px;
+}
+#ic{
+	background-color:black;
+}
+input{
+	margin-left:-5px;
+	width:70px;
+	height:50px;
+
+}
+#othic{
+	font-size:50px;
+	align:center;
+}
